@@ -1,0 +1,14 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package net.minecraft.src;
+
+public enum EnumStatus {
+    OK,
+    NOT_POSSIBLE_HERE,
+    NOT_POSSIBLE_NOW,
+    TOO_FAR_AWAY,
+    OTHER_PROBLEM;
+
+}
+
